@@ -1,4 +1,4 @@
-# Practical-Cybersecurity-Labs---Elijah-Kofi-Gbadago
+# Practical-Cybersecurity-Labs
 This repository documents practical cybersecurity labs focused on network reconnaissance and packet manipulation. The objective was to master Cybersecurity tools.
 
 
@@ -15,8 +15,6 @@ This repository documents practical cybersecurity labs focused on network reconn
 
 ## Part 1: Nmap (Network Mapper)
 **Objective:** Perform host discovery, OS fingerprinting, and service detection on the target network `10.6.6.0/24`.
-
-
 
 ## Part 2: Scapy (Packet Manipulation)
 Objective: Use Scapy's interactive shell to sniff network traffic and analyze packets programmatically.
