@@ -21,4 +21,4 @@ This repository documents practical cybersecurity labs focused on network reconn
 ## Part 2: Scapy (Packet Manipulation)
 Objective: Use Scapy's interactive shell to sniff network traffic and analyze packets programmatically.
 
-![Link to documentation](NMAP_and_Scapy_Lab)
+![Link to documentation](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/NMAP_and_Scapy_Lab)
