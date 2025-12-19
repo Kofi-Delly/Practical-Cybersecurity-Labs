@@ -20,3 +20,64 @@ This repository documents practical cybersecurity labs focused on network reconn
 Objective: Use Scapy's interactive shell to sniff network traffic and analyze packets programmatically.
 
 ![Link to documentation](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/NMAP_and_Scapy_Lab)
+
+
+
+## Lab: Website Cloning and SMB Vulnerability Scanning
+
+This repository documents how I used:
+
+1. `setoolkit` in my **Website Cloning Lab**
+2. `enu4linux` and `smbclient` in my **SMB Vulnerability Scanning Lab**
+
+My objective for these activities is to practice **ethical hacking techniques** in a controlled environment for **learning and security testing purposes only**.
+
+
+##  Ethical & Legal Disclaimer
+
+All activities documented here were performed:
+
+- In a **controlled lab environment**
+- Against **intentionally virtual systems I own and have explicit permission to test**
+- Strictly for **educational and training** purposes.
+
+ **Do not** use these techniques on networks or systems without explicit authorization. Unauthorized access or testing is illegal and unethical.
+
+
+##  Repository Structure
+
+- `README.md` – The documentation
+- `screenshots/` – Screenshots of key steps and results.
+
+## Part 1: Website Cloning Lab (SET Toolkit)
+
+###  Objective
+
+Use **Social-Engineer Toolkit (SET)** to clone a target website and capture login credentials, demonstrating:
+
+- Proper use of `setoolkit`
+- Understanding how credential harvesting via cloning works
+- Awareness of the **ethical context** (for education/testing only)
+
+###  Tools & Environment
+
+- **Kali Linux** (attacker machine)
+- **SET (Social-Engineer Toolkit)**
+- **DVWA** (`http://dvwa.vm`) as the target web application – intentionally vulnerable virtual web app.
+- Browser and text editor (e.g. `firefox`, `pluma`)
+
+
+### 1.1 High-Level Concept
+
+The idea of this lab is to:
+
+1. Use SET to **clone a legitimate login page**.
+2. Host the cloned page on the attacker machine (e.g. `10.6.6.1`).
+3. Trick a user into visiting this cloned page.
+4. When the user submits their credentials, SET **captures** them and then **redirects** the user back to the original site to avoid suspicion.
+
+Once again, this is only acceptable in a **lab** or with **explicit permission**.
+
+
+# Link to the lab documentation:
+![Lab_setoolkit(web_cloning)_and_enum4linux & smbclient](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Lab_setoolkit(web_cloning)_and_enum4linux%20%26%20smbclient)
