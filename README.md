@@ -19,7 +19,8 @@ This repository documents practical cybersecurity labs focused on network reconn
 ## Part 2: Scapy (Packet Manipulation)
 Objective: Use Scapy's interactive shell to sniff network traffic and analyze packets programmatically.
 
-![Link to documentation](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/NMAP_and_Scapy_Lab)
+[Link to documentation](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/NMAP_and_Scapy_Lab)
+
 
 
 
@@ -80,4 +81,19 @@ Once again, this is only acceptable in a **lab** or with **explicit permission**
 
 
 # Link to the lab documentation:
-![Lab_setoolkit(web_cloning)_and_enum4linux & smbclient](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Lab_setoolkit(web_cloning)_and_enum4linux%20%26%20smbclient)
+[Lab_setoolkit(web_cloning)_and_enum4linux & smbclient](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Lab_setoolkit(web_cloning)_and_enum4linux%20%26%20smbclient)
+
+
+# Vulnerability Scanning Lab: Nikto
+
+## 1. Objective
+The purpose of this lab was to utilize **Nikto**, an Open Source (GPL) web server scanner, to execute extensive testing against web servers for multiple items.
+
+## 2. Tools Used
+* **Kali Linux Ethical Hacker VM** (Virtual Environment)
+* **Nikto v2.5.0**
+* **Invicti/CVE Databases** (For vulnerability research)
+* **Nano Text Editor** (Used to list targeted IPs)
+
+# Link to the lab documentation:
+[Vulnerability Scanning Lab with Nikto](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Vulnerability%20Scanning%20Lab%20with%20Nikto)
