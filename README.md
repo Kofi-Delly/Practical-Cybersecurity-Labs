@@ -23,7 +23,7 @@ Objective: Use Scapy's interactive shell to sniff network traffic and analyze pa
 
 
 
-
+######
 ## Lab: Website Cloning and SMB Vulnerability Scanning
 
 This repository documents how I used:
@@ -83,7 +83,7 @@ Once again, this is only acceptable in a **lab** or with **explicit permission**
 # Link to the lab documentation:
 [Lab_setoolkit(web_cloning)_and_enum4linux & smbclient](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Lab_setoolkit(web_cloning)_and_enum4linux%20%26%20smbclient)
 
-
+######
 # Vulnerability Scanning Lab: Nikto
 
 ## 1. Objective
@@ -99,7 +99,7 @@ The purpose of this lab was to utilize **Nikto**, an Open Source (GPL) web serve
 [Vulnerability Scanning Lab with Nikto](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Vulnerability%20Scanning%20Lab%20with%20Nikto)
 
 
-
+######
 # Web Application Vulnerability Scanning with OWASP ZAP
 
 ## 1. Objective
@@ -112,3 +112,22 @@ The main goal of this lab was to conduct a Dynamic Application Security Testing 
 
 # Link to the lab documentation:
 [Web Application Vulnerability Scanning with OWASP ZAP](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Web_Application_Vulnerability_Scanning_with_OWASP_ZAP)
+
+######
+# Ethical Hacking Capstone Activity: Vulnerability Assessment & Remediation
+
+## Overview
+This repository documents my hands-on **Ethical Hacking Capstone Activity**, performed in a controlled lab environment using **Kali Linux** and **DVWA** (Damn Vulnerable Web App). 
+
+The project focuses on identifying vulnerabilities, exploiting them to retrieve "flags" (simulating sensitive data), and proposing industry-standard remediation strategies.
+
+## Tools Used
+* **OS:** Kali Linux
+* **Network Scanning:** Nmap, NetBIOS
+* **Web Recon:** Dirb, Browser Manipulation
+* **Exploitation:** SQL Injection (Manual), SMBClient
+* **Password Cracking:** John the Ripper, Hashcat
+* **Analysis:** Wireshark (Packet Capture Analysis)
+
+### You can find the documentation here:
+[Final Ethical Hacking Capstone Activity Instructor-Led Student version](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Final_Ethical_Hacking_Capstone_Activity__Instructor_Led__Student_version)
